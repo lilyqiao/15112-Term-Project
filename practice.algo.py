@@ -3,6 +3,8 @@
 # 15112 s'18 Term Project: Algo Trading
 ##########################################################
 
+#Lily loves cats
+
 import module_manager  # from course website
 module_manager.review()
 from tkinter import *
