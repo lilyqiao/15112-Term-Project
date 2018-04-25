@@ -1,9 +1,3 @@
-##########################################################
-# Lily Qiao (recitation L)
-# 15112 s'18 Term Project: Algo Trading
-##########################################################
-
-#Lily loves cats
 
 import module_manager  # from course website
 module_manager.review()
@@ -168,5 +162,7 @@ def run(width=300, height=300):
     data.root.mainloop()  # blocks until window is closed
     print("bye!")
 run(600, 400)
+
+
 
 
